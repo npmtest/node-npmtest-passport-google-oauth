@@ -1,6 +1,6 @@
 # npmtest-passport-google-oauth
 
-#### test coverage for  [passport-google-oauth (v1.0.0)](https://github.com/jaredhanson/passport-google-oauth#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-passport-google-oauth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-passport-google-oauth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-passport-google-oauth.svg)](https://travis-ci.org/npmtest/node-npmtest-passport-google-oauth)
+#### basic test coverage for  [passport-google-oauth (v1.0.0)](https://github.com/jaredhanson/passport-google-oauth#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-passport-google-oauth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-passport-google-oauth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-passport-google-oauth.svg)](https://travis-ci.org/npmtest/node-npmtest-passport-google-oauth)
 
 #### Google (OAuth) authentication strategies for Passport.
 
